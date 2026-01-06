@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash verma</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash932" alt="avinash932" /></a> </p>
 
 - 📫 How to reach me **avinashverma2254@gmail.com**
 
